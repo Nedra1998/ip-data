@@ -1,5 +1,3 @@
-127.0.0.1 52526 127.0.1.1 22
-127.0.0.1 52526 22
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
@@ -9,6 +7,6 @@
 6: wlp58s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 30:52:cb:e8:a6:6f brd ff:ff:ff:ff:ff:ff
     inet 10.4.6.157/23 brd 10.4.7.255 scope global dynamic noprefixroute wlp58s0
-       valid_lft 2147sec preferred_lft 2147sec
+       valid_lft 2083sec preferred_lft 2083sec
     inet6 fe80::7267:e1d8:9ce6:9cf2/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
