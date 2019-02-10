@@ -6,4 +6,4 @@ git config --global user.name "Arden Rasmussen"
 git config --global user.email "ardenisthebest@gmail.com"
 git add -A
 git commit -m"IP ADDRESS"
-git push <<< "Nedra1998" "Tristan11"
+git push
