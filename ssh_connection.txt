@@ -7,7 +7,7 @@
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether b8:27:eb:b8:c2:e2 brd ff:ff:ff:ff:ff:ff
     inet 149.175.150.100/24 brd 149.175.150.255 scope global dynamic eth0
-       valid_lft 39497sec preferred_lft 39497sec
+       valid_lft 39455sec preferred_lft 39455sec
     inet6 fe80::ba27:ebff:feb8:c2e2/64 scope link 
        valid_lft forever preferred_lft forever
 3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
